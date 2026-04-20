@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riadrayhan&label=Profile%20views&color=0e75b6&style=flat" alt="riadrayhan" /> </p>
 
-- 🔭 I’m currently working on **Mitha Bari**
+- 🔭 I’m currently working on **AI based Advance Project**
 
-- 🌱 I’m currently learning **PHP Laravel**
+- 🌱 I’m currently learning **Node.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/riadrayhan](https://github.com/riadrayhan)
 
