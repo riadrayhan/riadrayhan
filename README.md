@@ -13,41 +13,43 @@
 - 📫 How to reach me **riadrayhan.cse@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/riad-rayhan100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://fb.com/riad.rayhan.100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-<a href="https://medium.com/@riadrayhan.cse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
-</p>
+
+<table>
+  <tr>
+    <td align="center" width="90"><a href="https://linkedin.com/in/riad-rayhan100" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"/><br/>LinkedIn</a></td>
+    <td align="center" width="90"><a href="https://fb.com/riad.rayhan.100" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" height="40"/><br/>Facebook</a></td>
+    <td align="center" width="90"><a href="https://medium.com/@riadrayhan.cse" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="40" height="40"/><br/>Medium</a></td>
+  </tr>
+</table>
+
+<br/>
 
 <h3 align="left">Languages and Tools:</h3>
 
 <table>
   <tr>
-    <td align="center" width="90"><a href="https://flutter.dev"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/><br/>Flutter</a></td>
-    <td align="center" width="90"><a href="https://dart.dev"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40"/><br/>Dart</a></td>
-    <td align="center" width="90"><a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/><br/>Java</a></td>
-    <td align="center" width="90"><a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/><br/>Python</a></td>
-    <td align="center" width="90"><a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/><br/>C</a></td>
-    <td align="center" width="90"><a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/><br/>Firebase</a></td>
-    <td align="center" width="90"><a href="https://developer.android.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40"/><br/>Android</a></td>
+    <td align="center" width="80"><a href="https://flutter.dev"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/><br/>Flutter</a></td>
+    <td align="center" width="80"><a href="https://dart.dev"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40"/><br/>Dart</a></td>
+    <td align="center" width="80"><a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/><br/>Java</a></td>
+    <td align="center" width="80"><a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/><br/>Python</a></td>
+    <td align="center" width="80"><a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/><br/>C</a></td>
+    <td align="center" width="80"><a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/><br/>Firebase</a></td>
+    <td align="center" width="80"><a href="https://developer.android.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40"/><br/>Android</a></td>
+    <td align="center" width="80"><a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/><br/>MySQL</a></td>
+    <td align="center" width="80"><a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/><br/>MongoDB</a></td>
+    <td align="center" width="80"><a href="https://redis.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40"/><br/>Redis</a></td>
   </tr>
   <tr>
-    <td align="center" width="90"><a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/><br/>MySQL</a></td>
-    <td align="center" width="90"><a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/><br/>MongoDB</a></td>
-    <td align="center" width="90"><a href="https://redis.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40"/><br/>Redis</a></td>
-    <td align="center" width="90"><a href="https://numpy.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/><br/>NumPy</a></td>
-    <td align="center" width="90"><a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/><br/>Pandas</a></td>
-    <td align="center" width="90"><a href="https://www.tensorflow.org"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/><br/>TensorFlow</a></td>
-    <td align="center" width="90"><a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/><br/>Scikit-learn</a></td>
-  </tr>
-  <tr>
-    <td align="center" width="90"><a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/><br/>HTML5</a></td>
-    <td align="center" width="90"><a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/><br/>CSS3</a></td>
-    <td align="center" width="90"><a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/><br/>Bootstrap</a></td>
-    <td align="center" width="90"><a href="https://www.netlify.com"><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="40" height="40"/><br/>Netlify</a></td>
-    <td align="center" width="90"><a href="https://vercel.com"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40" height="40"/><br/>Vercel</a></td>
-    <td align="center" width="90"></td>
-    <td align="center" width="90"></td>
+    <td align="center" width="80"><a href="https://numpy.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/><br/>NumPy</a></td>
+    <td align="center" width="80"><a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/><br/>Pandas</a></td>
+    <td align="center" width="80"><a href="https://www.tensorflow.org"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/><br/>TensorFlow</a></td>
+    <td align="center" width="80"><a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/><br/>Scikit-learn</a></td>
+    <td align="center" width="80"><a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/><br/>HTML5</a></td>
+    <td align="center" width="80"><a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/><br/>CSS3</a></td>
+    <td align="center" width="80"><a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/><br/>Bootstrap</a></td>
+    <td align="center" width="80"><a href="https://www.netlify.com"><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="40" height="40"/><br/>Netlify</a></td>
+    <td align="center" width="80"><a href="https://vercel.com"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40" height="40"/><br/>Vercel</a></td>
+    <td align="center" width="80"></td>
   </tr>
 </table>
 
